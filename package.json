@@ -1,0 +1,25 @@
+{
+  "name": "eventworkshopallocator",
+  "version": "1.0.0",
+  "description": "EventWorkshop Allocator\" is a powerful application designed to seamlessly distribute event attendees into various workshops of their choice while ensuring equitable representation across different groups. Simplify workshop registration and optimize participant allocation for a well-balanced event experience.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "event",
+    "workshop",
+    "allocator",
+    "registration",
+    "participant",
+    "distribution",
+    "equitable",
+    "attendees",
+    "group",
+    "organizer",
+    "managemente",
+    "diversity\\"
+  ],
+  "author": "Joaquín Delhom Viana",
+  "license": "ISC"
+}
